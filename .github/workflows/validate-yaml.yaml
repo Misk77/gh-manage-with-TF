@@ -1,5 +1,5 @@
+---
 name: Validate-YAML
-
 on:
   push:
     branches: [master]
