@@ -7,7 +7,6 @@ on:
     branches: [ master ]
 
 jobs:
-  jobs:
   lintAllTheThings:
     runs-on: ubuntu-latest
     steps:
